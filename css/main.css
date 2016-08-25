@@ -162,7 +162,7 @@ header a {
 	text-align: center;
 	background-color: #97D0A3;
 	width: 100%;
-	padding: 50px;
+	padding: 30px 0;
 }
 
 #portfolio h1, #meet h1, #blog h1, #contact h1 {
@@ -324,7 +324,7 @@ hr {
 	text-align: center;
 	width: 100%;
 	margin: 0;
-	padding: 30px 50px;
+	padding: 30px 0;
 }
 
 #meet > div {
